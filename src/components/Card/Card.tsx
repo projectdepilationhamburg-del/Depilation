@@ -25,7 +25,7 @@ function Card({title, description, srcImg, nameButton1, nameButton2}: CardProps)
       </CardFoto>
       <ButtonBox>
         <Button colorText>
-          <ArrowSVG>
+          {/* <ArrowSVG>
             <path
               d="M15 9.61538L9 15M9 15L3 9.61538M9 15L9 0.999999"
               stroke="currentColor"
@@ -39,8 +39,9 @@ function Card({title, description, srcImg, nameButton1, nameButton2}: CardProps)
               strokeWidth="2"
               strokeLinecap="round"
             />
-          </ArrowSVG>
-          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;{nameButton1}
+          </ArrowSVG> */}
+          {/* &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; */}
+          {nameButton1}
         </Button>
         <Button bgColor>{nameButton2}</Button>
       </ButtonBox>

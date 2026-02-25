@@ -1,6 +1,6 @@
 export { default as Logo } from './logo.png';
 export { default as MapsIcon } from './icon maps.png';
-export { default as Foto } from './23a160ea-0f9b-4bef-ae5c-69a0f633d048 3.webp';
+export { default as Foto } from './Foto.webp';
 export { default as FotoM } from './FotoMobile.webp';
 export { default as FotoImg1 } from './1.webp';
 export { default as FotoImg2 } from './3.webp';

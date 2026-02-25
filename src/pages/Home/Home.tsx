@@ -182,9 +182,6 @@ function Home() {
             <Foto2 src={FotoImg3} />
           </ContainerFoto234>
         </Section1Foto>
-
-        
-
       </Section1>
       <Section2 id="services">
         <Section2TitleContainer>

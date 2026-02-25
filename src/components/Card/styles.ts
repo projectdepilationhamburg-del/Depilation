@@ -64,5 +64,5 @@ width: 17px;
 display: inline-block;
 position: absolute;
 top: 20px;
-left: 33px;
+left: 15px;
 `
