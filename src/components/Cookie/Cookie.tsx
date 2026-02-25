@@ -15,7 +15,7 @@ function Cookie() {
   const [dragging, setDragging] = useState(false);
 const [position, setPosition] = useState({ top: window.innerHeight * 0.3, left: window.innerWidth / 2 });
 
-    const [consentStatus, setConsentStatus] = useState<ConsentType>(null);
+    const [_consentStatus, setConsentStatus] = useState<ConsentType>(null);
   const [settingsOpen, setSettingsOpen] = useState(false);
   const [cookieSettings, setCookieSettings] = useState({
     essential: true,
